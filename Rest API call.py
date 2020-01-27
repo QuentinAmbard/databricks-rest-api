@@ -1,5 +1,5 @@
 # Databricks notebook source
-#Test to start a job with a custom sql request and get the result:
+#Test to start a job with a custom sql request and get the result :
 
 import requests, time
 def run_sql_requests(request):
